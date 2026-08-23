@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_VFX_CircleLoop
+  m_Name: M_VFX_cilinderloop
   m_Shader: {fileID: -6465566751694194690, guid: 94dfa9f991d203e479425756b3727fdd, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -28,7 +28,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: a178817d4f6465246ab48c59b8682e02, type: 3}
+        m_Texture: {fileID: 2800000, guid: bbf420dc8c6197240beb292f83a8c0b2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
