@@ -1,9 +1,9 @@
 # Computación Gráfica 2026-6
-## Entrega 1: Efecto de Curación
-
 **Estudiantes:** Juan Esteban Medina, Emmanuel Gamboa y Juan David Negrete 
 
 ---
+
+## Entrega 1: Efecto de Curación
 
 ### Descripción del Proyecto
 Este proyecto consiste en la creación de un efecto visual (VFX) de curación (Healing Effect) dentro de Unity.
@@ -47,5 +47,27 @@ El comportamiento del sistema está dividido en tres estados principales:
  
 
 https://github.com/user-attachments/assets/e58d942d-06d0-4a1b-8201-441a7aa33ab0
+
+---
+
+## Entrega 2: Efecto de Slash 
+
+## Descripción del Proyecto
+Este proyecto consiste en la recreación y reimaginación del ejercicio de "slash" visto en clase. Se implementaron efectos visuales para una secuencia de 3 ataques consecutivos, integrando elementos modelados desde cero y texturas personalizadas.
+
+## Detalles de Implementación
+
+Para lograr el estilo visual deseado (temática de sangre), se diseñaron y desarrollaron los siguientes elementos:
+
+* **Ataque Base:** Se utilizó un mesh en forma de media luna modelado en Blender. A este mesh se le aplicó una textura personalizada para simular sangre brillante.
+* **Efecto de Feedback:** Para darle mayor impacto y fluidez al movimiento, se generó un efecto de "feedback" que copia la media luna base y sigue su misma trayectoria. Este rastro utiliza una textura diferente y un tono mucho más oscuro para contrastar con el brillo del ataque principal y dar una sensación de profundidad.
+* **Efectos de Impacto (Colisión):** Se implementó un efecto de mancha de sangre que se activa en la colisión hipotética de cada uno de los 3 impactos (slashes) de la animación. 
+
+## Demostración
+
+<img width="854" height="480" alt="Efecto Slash" src="https://github.com/user-attachments/assets/0849abce-e032-49c7-8d3b-000bd247f83a" />
+
+
+
 
 
