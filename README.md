@@ -93,7 +93,9 @@ además para el estilizado cartoon definimos más los bordes de la espuma y aña
 
 ## Demostración
 
-https://github.com/user-attachments/assets/527dde25-e0e2-4fce-80f9-28378244b5ca
+
+https://github.com/user-attachments/assets/9ce14949-140a-4feb-9a30-9cf902943530
+
 
 
 ---
