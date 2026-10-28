@@ -67,7 +67,32 @@ Para lograr el estilo visual deseado (temática de sangre), se diseñaron y desa
 
 <img width="854" height="480" alt="Efecto Slash" src="https://github.com/user-attachments/assets/0849abce-e032-49c7-8d3b-000bd247f83a" />
 
+---
 
+## Entrega 3: Shader de agua
 
+## Descripción del Proyecto
+
+Este proyecto consiste en crear un material de agua que cumpla con:
+
+- Displacement
+- Screen space refractions
+- Cubemap reflections
+- Neblina por profundidad
+- Espuma de intersección
+- Espuma de oleaje
+- Estilizado Cartoon
+
+## Detalles de Implementación
+
+tomamos de base el shader creado en clase e implementamos 
+
+la espuma en los bordes y la de oleaje 
+
+además para el estilizado cartoon definimos más los bordes de la espuma y añadimos un voronoi con displacement para solidificar ese estilizado.
+
+## Demostración
+
+---
 
 
