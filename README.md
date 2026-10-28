@@ -1,13 +1,3 @@
-
-
-https://github.com/user-attachments/assets/2b9e6d9b-80cd-46eb-aee4-a20eb5010d14
-
-
-
-https://github.com/user-attachments/assets/fbac5614-6e86-4592-a1ae-bd2a40be518c
-
-
-
 # Computación Gráfica 2026-6
 **Estudiantes:** Juan Esteban Medina, Emmanuel Gamboa y Juan David Negrete 
 
