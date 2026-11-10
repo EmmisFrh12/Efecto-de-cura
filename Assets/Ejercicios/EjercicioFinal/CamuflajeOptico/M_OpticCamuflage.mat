@@ -101,8 +101,8 @@ Material:
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _Metallic: 0
-    - _Noise_Size: 0
-    - _Noise_Strength: 0.5
+    - _Noise_Size: 3
+    - _Noise_Strength: 5.48
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 0
@@ -122,7 +122,7 @@ Material:
     - _Base_Color: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _HologramColor: {r: 0.17117558, g: 0.42693207, b: 0.35446724, a: 0}
+    - _HologramColor: {r: 0.47543013, g: 0.8784314, b: 0.44313726, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _Velocity1: {r: 0.5, g: -0.2, b: 0, a: 0}
     - _Velocity2: {r: 0.19, g: 0.18, b: 0, a: 0}
