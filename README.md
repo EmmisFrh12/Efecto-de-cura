@@ -100,4 +100,29 @@ https://github.com/user-attachments/assets/9ce14949-140a-4feb-9a30-9cf902943530
 
 ---
 
+## Entrega 4: Demo técnica
+
+## Descripción del Proyecto
+
+desarrollar 3 efectos visuales completamente desde 0 y deben de estar listos para su inclusión en un video juego, además deben de ser entregardos en formato de una Demo técnica simple.
+
+https://drive.google.com/file/d/1UdOARF1_lyL3bNT3XIZHc8mY9cMSGk9E/view?usp=sharing
+
+
+
+https://github.com/user-attachments/assets/b8f360a2-5a1e-40a2-aff7-37a5a0174a9d
+
+
+
+https://github.com/user-attachments/assets/df1fb92e-1f1a-426a-988b-39b2714809ee
+
+
+
+https://github.com/user-attachments/assets/34521c49-993a-4eaf-9edd-cdd775387f79
+
+
+
+
+
+
 
