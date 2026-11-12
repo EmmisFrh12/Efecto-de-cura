@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "iA_arco",
+    "maps": [
+        {
+            "name": "ARCO",
+            "id": "a1a76ffe-fbed-4284-8272-ea2f58ac8fe0",
+            "actions": [
+                {
+                    "name": "activar arco",
+                    "type": "Button",
+                    "id": "92986140-6ffe-4d63-a0ca-82f9bc3b1259",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e69910bd-bea4-4fd3-ac50-0cc9a6dc75df",
+                    "path": "<Keyboard>/g",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "activar arco",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
